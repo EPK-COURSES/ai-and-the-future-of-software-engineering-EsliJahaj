@@ -1,0 +1,13 @@
+Personal Reflection
+
+Before researching this topic, I believed that AI could eventually replace a large portion of software engineering work. I knew AI tools were becoming more powerful, but I mainly focused on their ability to generate code. After completing this research, my perspective changed significantly. I now understand that software engineering is not only about coding. It is also about understanding people, solving real-world problems, making decisions, and working effectively within teams.
+
+The most surprising thing I discovered was how important communication remains. AI can write code quickly, explain concepts, and even generate documentation, but it cannot truly understand human emotions, motivations, or business priorities. Software engineers regularly communicate with clients, managers, and teammates to understand requirements and resolve misunderstandings. These interactions require empathy and judgment that AI currently cannot provide.
+
+One concern I have is that developers may become too dependent on AI tools. If programmers rely on AI without understanding the code it generates, software quality, security, and reliability could suffer. AI systems can make mistakes, generate inefficient solutions, or introduce vulnerabilities. Therefore, engineers must continue developing strong technical foundations and critical-thinking skills.
+
+At the same time, I see many opportunities. AI can automate repetitive work such as writing boilerplate code, generating tests, and creating documentation. This allows engineers to spend more time on higher-value activities such as architecture design, problem solving, innovation, and collaboration. Rather than replacing software engineers, AI may help them become more productive and creative.
+
+The skill I believe will remain most important is complex problem solving. Technology changes rapidly, but organizations will always need people who can analyze situations, understand business needs, and develop practical solutions. I also believe communication and teamwork will become even more valuable because engineers will increasingly act as coordinators between technology, AI systems, and business stakeholders.
+
+Personally, I plan to adapt by learning how to use AI tools effectively while continuing to strengthen my communication, teamwork, and critical-thinking abilities. I want to use AI as a tool that improves my productivity rather than something I depend on completely. This research convinced me that the most successful software engineers of the future will not be those who compete against AI, but those who learn how to work alongside it responsibly and effectively.
