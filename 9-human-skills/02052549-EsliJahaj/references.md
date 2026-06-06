@@ -23,3 +23,12 @@ References
 
 8. Amazon Web Services. Amazon CodeWhisperer Documentation.
    https://aws.amazon.com/codewhisperer/
+   
+9. Deloitte. (2024). State of Generative AI in the Enterprise.
+   https://www2.deloitte.com
+
+10. IBM. (2023). Global AI Adoption Index.
+    https://www.ibm.com/reports/ai-adoption
+
+11. Google Cloud. (2024). Generative AI for Developers.
+    https://cloud.google.com/use-cases/generative-ai
